@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-### Class Balancing GAN with a Classifier in the Loop([Paper](https://arxiv.org/abs/2106.09402)| [Code](https://github.com/val-iisc/class-balancing-gan))
+### Class Balancing GAN with a Classifier in the Loop ([Paper](https://arxiv.org/abs/2106.09402)| [Code](https://github.com/val-iisc/class-balancing-gan))
 *UAI 2021*
 
 
