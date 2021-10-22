@@ -4,11 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
-### Class Balancing GAN with a Classifier in the Loop ([Paper](https://arxiv.org/abs/2106.09402)| [Code](https://github.com/val-iisc/class-balancing-gan))
+### Class Balancing GAN with a Classifier in the Loop ([Paper](https://arxiv.org/abs/2106.09402)|[Code](https://github.com/val-iisc/class-balancing-gan))
 *UAI 2021*
 
 
-### S3VAADA: Submodular Subset Selection for Virtual Adversarial Active Domain Adaptation 
+### S3VAADA: Submodular Subset Selection for Virtual Adversarial Active Domain Adaptation ([Paper](https://arxiv.org/abs/2109.08901|[Code](https://github.com/val-iisc/s3vaada))
 *ICCV 2021*
 
 ### IIT (BHU) Submission for the ACL Shared Task on Named Entity Recognition on Code-switched Data ([Paper](https://aclanthology.org/W18-3220.pdf))
