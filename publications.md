@@ -8,7 +8,7 @@ permalink: /publications/
 *UAI 2021*
 
 
-### S3VAADA: Submodular Subset Selection for Virtual Adversarial Active Domain Adaptation ([Paper](https://arxiv.org/abs/2109.08901|[Code](https://github.com/val-iisc/s3vaada))
+### S3VAADA: Submodular Subset Selection for Virtual Adversarial Active Domain Adaptation ([Paper](https://arxiv.org/abs/2109.08901)|[Code](https://github.com/val-iisc/s3vaada))
 *ICCV 2021*
 
 ### IIT (BHU) Submission for the ACL Shared Task on Named Entity Recognition on Code-switched Data ([Paper](https://aclanthology.org/W18-3220.pdf))
