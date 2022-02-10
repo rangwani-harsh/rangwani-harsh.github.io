@@ -19,7 +19,7 @@ I am a ~~second~~ third year PhD student at Department of Computational and Data
 
 My research interest lie in the field of Adversarial Machine Learning. Specifically I am interested in problems which involve min max optimizations. Adversarial Learning is the common theme behind the following techniques Generative Adversarial Networks, Adversarial Training for robust Neural Networks, Adversarial Domain Adaptation etc. Currently I am working on Generative Adversarial Networks where I want to tackle the case of learning from imbalanced datasets. 
 
-### Courses completed in IISc (GPA: 9.83) :
+<!-- ### Courses completed in IISc (GPA: 9.83) :
 - Pattern Recognition and Neural Networks 
 - Game Theory
 - Deep Learning for Computer Vision
@@ -27,7 +27,7 @@ My research interest lie in the field of Adversarial Machine Learning. Specifica
 - Stochastic Methods and Applications
 - Video Analytics
 
-
+-->
 
 
 
