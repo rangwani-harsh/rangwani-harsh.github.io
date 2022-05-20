@@ -4,6 +4,9 @@ title: Publications
 permalink: /publications/
 ---
 
+### A Closer Look at Smoothness in Domain Adversarial Training ([PrePrint](https://openreview.net/forum?id=Fj1Tpym9KxH))
+*ICML 2022*
+
 ### Class Balancing GAN with a Classifier in the Loop ([Paper](https://arxiv.org/abs/2106.09402)|[Code](https://github.com/val-iisc/class-balancing-gan))
 *UAI 2021*
 
