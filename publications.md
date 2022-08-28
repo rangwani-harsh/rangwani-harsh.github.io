@@ -3,14 +3,14 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-### Improving GANs for Long-Tailed Data through Group Spectral Regularization (Coming Soon)
+### Improving GANs for Long-Tailed Data through Group Spectral Regularization ([Paper](https://arxiv.org/abs/2206.08213))
 *ECCV 2022*
 
-### Hierarchical Semantic Regularization of Latent Spaces in StyleGANs (Coming Soon)
+### Hierarchical Semantic Regularization of Latent Spaces in StyleGANs ([Paper](https://arxiv.org/abs/2208.09932))
 *ECCV 2022*
 
 ### A Closer Look at Smoothness in Domain Adversarial Training ([Paper](https://arxiv.org/abs/2206.08213)|[Code](https://github.com/val-iisc/sdat))
-*ICML 2022*
+*ICML 2022 (Also at OOD-CV Workshop, ECCV 2022)*
 
 ### Class Balancing GAN with a Classifier in the Loop ([Paper](https://arxiv.org/abs/2106.09402)|[Code](https://github.com/val-iisc/class-balancing-gan))
 *UAI 2021*
