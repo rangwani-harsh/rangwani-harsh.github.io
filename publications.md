@@ -3,10 +3,10 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-### Improving GANs for Long-Tailed Data through Group Spectral Regularization ([Paper](https://arxiv.org/abs/2206.08213))
+### Improving GANs for Long-Tailed Data through Group Spectral Regularization ([Paper](https://arxiv.org/abs/2208.09932))
 *ECCV 2022*
 
-### Hierarchical Semantic Regularization of Latent Spaces in StyleGANs ([Paper](https://arxiv.org/abs/2208.09932))
+### Hierarchical Semantic Regularization of Latent Spaces in StyleGANs ([Paper](https://arxiv.org/abs/2208.03764))
 *ECCV 2022*
 
 ### A Closer Look at Smoothness in Domain Adversarial Training ([Paper](https://arxiv.org/abs/2206.08213)|[Code](https://github.com/val-iisc/sdat))
