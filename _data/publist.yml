@@ -71,8 +71,6 @@
     display: code (coming soon)
 
 
-
-
 - title: Class Balancing GAN with a Classifier in the Loop (CBGAN)
   image: cbgan.jpg
   description: Pre-trained classifier based regularizer to ensure diverse and class balanced generation from an unconditional GAN.

@@ -1,0 +1,37 @@
+I"�<p><img style="float: right;" src="../me.jpg" width="192" height="192" title="Image" /></p>
+
+<p>I am a <del>third</del> fourth year PhD student at Department of Computational and Data Science (CDS) at Indian Institute of Science. I am very fortunate to be advised by <a href="http://cds.iisc.ac.in/faculty/venky/"><strong>Prof.</strong> <strong>Venkatesh Babu</strong></a>. Currently I am working on intersection of Machine Learning and Computer Vision. I am supported by <a href="http://pmrf.in/"><strong>Prime Minister’s Research Fellowship</strong></a> in Computer Science. I previously completed an honors degree in Computer Science being jointly advised by <a href="https://faculty.iiit.ac.in/~sangal/web/"><strong>Dr</strong>. <strong>Rajeev</strong> <strong>Sangal</strong></a> and <a href="https://faculty.iiit.ac.in/~sangal/web/"><strong>Dr</strong>. <strong>A</strong>.<strong>K</strong>. <strong>Singh</strong></a> at Department of Computer Science, IIT BHU Varanasi. In the past I have interned with Amazon in Outbound Marketing Automtation team and also have been the lead maintainer of the placement portal <a href="www.placement.iitbhu.ac.in">site</a>. In my free time I like to read books and play basketball.</p>
+
+<h3 id="news">News</h3>
+
+<p>September, 2022 :
+<em>Papers on “SAM for escaping saddle point for long-tailed learning” and “Cost-Sensitive Self-Training for Non-Decomposable Metrics” got accepted at NeurIPS’22.</em></p>
+
+<p>August, 2022 :
+<em>Our work on “A Closer Look at Smoothness in Domain Adversarial Training” got accepted at OOD-CV Workshop for <strong>spotlight presentation</strong>.</em></p>
+
+<p>July, 2022 :
+<em>Papers on “Group Spectral Regularization for GANs” and “Hierarchial Semantic Regularization for StyleGANs” got accepted at ECCV’22.</em></p>
+
+<p><a href="http://localhost:4000/news">see all news</a></p>
+
+<h3 id="research-interests">Research Interests:</h3>
+
+<p>My research interest lies in the field of Adversarial Machine Learning. Specifically, I am interested in problems that involve min-max optimizations. Adversarial Learning is the common theme behind the following techniques Generative Adversarial Networks, Adversarial Training for robust Neural Networks, Adversarial Domain Adaptation, etc. As a long-term goal, I want to develop ML algorithms that train and generalize well on real-world datasets. Currently, I am working on Generative Adversarial Networks where I want to tackle the case of learning from imbalanced datasets. Along with this, I am also focusing on analyzing the nature of practical min-max optimization methods used in Deep Learning.</p>
+
+<!-- ### Courses completed in IISc (GPA: 9.83) :
+- Pattern Recognition and Neural Networks 
+- Game Theory
+- Deep Learning for Computer Vision
+- Advanced Image Processing
+- Stochastic Methods and Applications
+- Video Analytics
+
+-->
+
+<p>Here is my detailed <a href="cv_updated.pdf">CV</a>.</p>
+
+<h3 id="contact-me">Contact me</h3>
+
+<p><a href="mailto:harshr@iisc.ac.in">harsh.rangwani</a></p>
+:ET

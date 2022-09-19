@@ -1,0 +1,211 @@
+I"7
+<div class="col-sm-11 clearfix">
+ <div class="well">
+ <pubtit>Improving GANs for Long-Tailed Data through Group Spectral Regularization</pubtit>
+
+ <img src="http://localhost:4000/images/pubpic/gSR.png" class="img-responsive" width="250px" style="float: left" />
+
+ <p>Group Spectral Regularization for alleviating mode collapse in GANs particulary for long-tailed data.</p>
+
+ <p><em>H. Rangwani, N. Jaswani, T. Karmali, V. Jampani, R.V. Babu</em></p>
+
+ <p>European Conference on Computer Vision, ECCV'22</p>
+
+ 
+
+ 
+
+ 
+ <p><a href="https://arxiv.org/pdf/2208.09932">pdf</a>
+ /
+ <a href="https://sites.google.com/view/gsr-eccv22">project page</a>
+ /
+ <a href="https://github.com/val-iisc/gSRGAN">code (github)</a></p>
+ 
+
+ 
+
+ 
+
+ </div>
+</div>
+
+<div class="col-sm-11 clearfix">
+ <div class="well">
+ <pubtit>Hierarchical Semantic Regularization of Latent Spaces in StyleGANs</pubtit>
+
+ <img src="http://localhost:4000/images/pubpic/hsr.png" class="img-responsive" width="250px" style="float: left" />
+
+ <p>Hierarchial Regularization of GAN features which enhances the smoothness in latent space</p>
+
+ <p><em>T. Karmali, R. Parihar, S. Agarwal, H. Rangwani, V. Jampani, M. Singh, R.V. Babu</em></p>
+
+ <p>European Conference on Computer Vision, ECCV'22</p>
+
+ 
+
+ 
+ <p><a href="https://arxiv.org/pdf/2208.03764">pdf</a>
+ /
+ <a href="https://sites.google.com/view/hsr-eccv22">project page</a></p>
+ 
+
+ 
+
+ 
+
+ 
+
+ </div>
+</div>
+
+<div class="col-sm-11 clearfix">
+ <div class="well">
+ <pubtit>A Closer Look at Smoothness in Domain Adversarial Training</pubtit>
+
+ <img src="http://localhost:4000/images/pubpic/sdat.png" class="img-responsive" width="250px" style="float: left" />
+
+ <p>Smooth Minima with respect to task loss leads to effective generalization on the target domain.</p>
+
+ <p><em>H. Rangwani*, S. K. Aithal*, M. Mishra, A. Jain, R. V. Babu</em></p>
+
+ <p>International Conference on Machine Learning, ICML'22</p>
+
+ 
+
+ 
+
+ 
+ <p><a href="https://arxiv.org/pdf/2206.08213">pdf</a>
+ /
+ <a href="https://github.com/val-iisc/sdat">code (github)</a>
+ /
+ <a href="https://slideslive.com/38983606">video</a></p>
+ 
+
+ 
+
+ 
+
+ </div>
+</div>
+
+<div class="col-sm-11 clearfix">
+ <div class="well">
+ <pubtit>Escaping Saddle Points for Effective Generalization on Class-Imbalanced Data</pubtit>
+
+ <img src="http://localhost:4000/images/pubpic/NeurIPS22-LongTail-OverviewFig.png" class="img-responsive" width="250px" style="float: left" />
+
+ <p>Loss Re-weighting leads to convergence to saddle points, we propose high rho SAM for escaping saddles and improving generalization.</p>
+
+ <p><em>H. Rangwani*, S. K. Aithal*, M. Mishra, R. V. Babu</em></p>
+
+ <p>Neural Information Processing Systems, NeurIPS'22</p>
+
+ 
+
+ 
+ <p><a href="">pdf (coming soon)</a>
+ /
+ <a href="">code (coming soon)</a></p>
+ 
+
+ 
+
+ 
+
+ 
+
+ </div>
+</div>
+
+<div class="col-sm-11 clearfix">
+ <div class="well">
+ <pubtit>Cost-Sensitive Self-Training for Optimizing Non-Decomposable Metrics</pubtit>
+
+ <img src="http://localhost:4000/images/pubpic/NeurIPS22-CSST-Overview.png" class="img-responsive" width="250px" style="float: left" />
+
+ <p>Consistency Regularization and Thresholding mechanism for optimizing non-decomposable objectives in a Semi-Supervised Learning Setup</p>
+
+ <p><em>H. Rangwani*, S. Ramasubramanian*, S. Takemori*, K. Takashi, Y. Umeda, R. V. Babu</em></p>
+
+ <p>Neural Information Processing Systems, NeurIPS'22</p>
+
+ 
+
+ 
+ <p><a href="">pdf (coming soon)</a>
+ /
+ <a href="">code (coming soon)</a></p>
+ 
+
+ 
+
+ 
+
+ 
+
+ </div>
+</div>
+
+<div class="col-sm-11 clearfix">
+ <div class="well">
+ <pubtit>Class Balancing GAN with a Classifier in the Loop (CBGAN)</pubtit>
+
+ <img src="http://localhost:4000/images/pubpic/cbgan.jpg" class="img-responsive" width="250px" style="float: left" />
+
+ <p>Pre-trained classifier based regularizer to ensure diverse and class balanced generation from an unconditional GAN.</p>
+
+ <p><em>H. Rangwani, K. R. Mopuri, R. V. Babu</em></p>
+
+ <p>Uncertainity in Artifical Intelligence, UAI'21</p>
+
+ 
+
+ 
+ <p><a href="https://arxiv.org/pdf/2106.09402">pdf</a>
+ /
+ <a href="https://github.com/val-iisc/class-balancing-gan">code (github)</a></p>
+ 
+
+ 
+
+ 
+
+ 
+
+ </div>
+</div>
+
+<div class="col-sm-11 clearfix">
+ <div class="well">
+ <pubtit>S3VAADA: Submodular Subset Selection for Virtual Adversarial Active Domain Adaptation</pubtit>
+
+ <img src="http://localhost:4000/images/pubpic/s3vaada.png" class="img-responsive" width="250px" style="float: left" />
+
+ <p>Subset selection criterion and virtual adversarial adaptation technique for active learning for domain adaptation.</p>
+
+ <p><em>H. Rangwani, A. Jain*, S. K. Aithal*, R.V. Babu</em></p>
+
+ <p>Internation Conference on Computer Vision, ICCV'21</p>
+
+ 
+
+ 
+
+ 
+ <p><a href="https://arxiv.org/pdf/2109.08901">pdf</a>
+ /
+ <a href="https://sites.google.com/iisc.ac.in/s3vaada-iccv2021/">project page</a>
+ /
+ <a href="https://github.com/val-iisc/s3vaada">code (github)</a></p>
+ 
+
+ 
+
+ 
+
+ </div>
+</div>
+
+:ET

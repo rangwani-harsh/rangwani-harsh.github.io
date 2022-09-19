@@ -1,0 +1,28 @@
+I"â<h1 id="selected-projects">Selected Projects</h1>
+
+<h3 id="named-entity-recognition-on-english-spanish-code-switched-data-paper--results">Named Entity Recognition On English Spanish Code Switched Data (<a href="http://www.aclweb.org/anthology/W18-3220">Paper</a> | <a href="https://code-switching.github.io/2018/">Results</a>)</h3>
+<p><em>Best System Award from Amazon</em></p>
+<ul>
+  <li>Usage of SVD based alignment of word embedding from two different languages (English and Spanish) for the task.</li>
+  <li>A novel method of ensemble of activations from different activation functions.</li>
+  <li>Final system achieved <strong>State Of Art</strong> results with an F1 of 63.76%.</li>
+</ul>
+
+<h3 id="irony-detection-project-paper--results">Irony Detection Project (<a href="http://www.aclweb.org/anthology/S18-1104">Paper</a> | <a href="https://competitions.codalab.org/competitions/17468">Results</a>)</h3>
+<ul>
+  <li>Combined linguistic features with activations from a neural network <strong>DeepMoji</strong>.</li>
+  <li>Proposed and implemeted usage of <strong>SMOTE</strong> for handling the problem of imbalance in dataset.</li>
+  <li>System was ranked 4th among 38 participating teams in the shared task.</li>
+</ul>
+
+<h3 id="tourism-domain-qa-system-poster">Tourism Domain QA System (<a href="posts.pdf">Poster</a>)</h3>
+<p><em>Best Poster Runner-up on Institute Day 2018</em></p>
+
+<ul>
+  <li>Designed the tourism based QA system by <strong>dependency</strong> <strong>tree</strong> matching of the query and answer sentences.</li>
+  <li>Implemented a dynamic programming algorithm for matching the query with the answer sentences.</li>
+</ul>
+
+<p>For my other projects checkout my <a href="https://github.com/rangwani-harsh">github</a> account.</p>
+
+:ET
