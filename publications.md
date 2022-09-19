@@ -1,26 +1,64 @@
 ---
-layout: page
+layout: grid_lay
 title: Publications
 permalink: /publications/
 ---
-### Improving GANs for Long-Tailed Data through Group Spectral Regularization ([Paper](https://arxiv.org/abs/2208.09932))
-*ECCV 2022*
-
-### Hierarchical Semantic Regularization of Latent Spaces in StyleGANs ([Paper](https://arxiv.org/abs/2208.03764))
-*ECCV 2022*
-
-### A Closer Look at Smoothness in Domain Adversarial Training ([Paper](https://arxiv.org/abs/2206.08213)|[Code](https://github.com/val-iisc/sdat))
-*ICML 2022 (Also at OOD-CV Workshop, ECCV 2022)*
-
-### Class Balancing GAN with a Classifier in the Loop ([Paper](https://arxiv.org/abs/2106.09402)|[Code](https://github.com/val-iisc/class-balancing-gan))
-*UAI 2021*
 
 
-### S3VAADA: Submodular Subset Selection for Virtual Adversarial Active Domain Adaptation ([Paper](https://arxiv.org/abs/2109.08901)|[Code](https://github.com/val-iisc/s3vaada))
-*ICCV 2021*
+{% for publi in site.data.publist %}
+<div class="col-sm-11 clearfix">
+ <div class="well">
+ <pubtit>{{ publi.title }}</pubtit>
 
-### IIT (BHU) Submission for the ACL Shared Task on Named Entity Recognition on Code-switched Data ([Paper](https://aclanthology.org/W18-3220.pdf))
-*CodeSwtich@ACL2018*
+ <img src="{{ site.url }}{{ site.baseurl }}/images/pubpic/{{ publi.image }}" class="img-responsive" width="250px"  style="float: left" />
 
-### NLPRL-IITBHU at SemEval-2018 Task 3: Combining Linguistic Features and Emoji Pre-trained CNN for Irony Detection in Tweets ([Paper](https://aclanthology.org/S18-1104.pdf))
-*SemEval-2018*
+ <p>{{ publi.description }}</p>
+
+ <p><em>{{ publi.authors }}</em></p>
+
+ <p>{{ publi.venue }}</p>
+
+ {% if publi.number_link == 1 %}
+ <p><a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a></p>
+ {% endif %}
+
+ {% if publi.number_link == 2 %}
+ <p><a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>
+ /
+ <a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a></p>
+ {% endif %}
+
+ {% if publi.number_link == 3 %}
+ <p><a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>
+ /
+ <a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>
+ /
+ <a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a></p>
+ {% endif %}
+
+ {% if publi.number_link == 4 %}
+ <p><a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>
+ /
+ <a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>
+ /
+ <a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>
+ /
+ <a href="{{ publi.link4.url }}">{{ publi.link4.display }}</a></p>
+ {% endif %}
+
+ {% if publi.number_link == 5 %}
+ <p><a href="{{ publi.link1.url }}">{{ publi.link1.display }}</a>
+ /
+ <a href="{{ publi.link2.url }}">{{ publi.link2.display }}</a>
+ /
+ <a href="{{ publi.link3.url }}">{{ publi.link3.display }}</a>
+ /
+ <a href="{{ publi.link4.url }}">{{ publi.link4.display }}</a>
+ /
+ <a href="{{ publi.link5.url }}">{{ publi.link5.display }}</a></p>
+ {% endif %}
+
+ </div>
+</div>
+
+{% endfor %}
