@@ -27,7 +27,7 @@ I am a ~~third~~ fourth year PhD student at Department of Computational and Data
 
 
 ### Research Interests:
-I am broadly intereseted in Deep Learning algorithms that train and generalize well on real-world datasets, having presence of class-imbalances and distribution shifts. I use deep learning frameworks like PyTorch, Tensorflow etc. to develop algorithms and techniques from statistics, optimization and information theory to analyze them. I am currently exploring applications in the domain of Computer Vision. 
+I am broadly intereseted in Deep Learning algorithms that train and generalize well on real-world datasets, having presence of class-imbalances and distribution shifts. I use deep learning frameworks like PyTorch, Tensorflow etc. to develop algorithms, and techniques from statistics, optimization theory and information theory to analyze them. I am currently exploring applications in the domain of Computer Vision.
 
 
 <!-- My research interest lies in the field of Adversarial Machine Learning. Specifically, I am interested in problems that involve min-max optimizations. Adversarial Learning is the common theme behind the following techniques Generative Adversarial Networks, Adversarial Training for robust Neural Networks, Adversarial Domain Adaptation, etc. As a long-term goal, I want to develop ML algorithms that train and generalize well on real-world datasets. Currently, I am working on Generative Adversarial Networks where I want to tackle the case of learning from imbalanced datasets. Along with this, I am also focusing on analyzing the nature of practical min-max optimization methods used in Deep Learning. 
