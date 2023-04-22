@@ -1,6 +1,6 @@
-- title: NoisyTwins: Class-Consistent and Diverse Image Generation through StyleGANs
+- title: "NoisyTwins: Class-Consistent and Diverse Image Generation through StyleGANs"
   image: Teaser.jpg
-  description: NoisyTwins: Class-Consistent and Diverse Image Generation through StyleGANs
+  description: NoisyTwins\: Class-Consistent and Diverse Image Generation through StyleGANs
   authors: Harsh Rangwani*, Lavish Bansal*, Kartik Sharma, Tejan Karmali, Varun Jampani, Venkatesh Babu Radhakrishnan
   venue: Conference on Computer Vision and Pattern Recognition, CVPR'23
   number_link: 3
