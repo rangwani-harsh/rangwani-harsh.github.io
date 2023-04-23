@@ -1,5 +1,5 @@
 - title: "NoisyTwins: Class-Consistent and Diverse Image Generation through StyleGANs"
-  image: Teaser.png
+  image: nt.png
   description: NoisyTwins is a self-supervised regularization scheme for StyleGANs, which helps in alleviating mode collapse and leads to consistent conditional fine-grained image generation.
   authors: H. Rangwani*, L. Bansal*, K. Sharma, T. Karmali, V. Jampani, R.V. Babu
   venue: Conference on Computer Vision and Pattern Recognition, CVPR'23
