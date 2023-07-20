@@ -1,7 +1,9 @@
+- date: July, 2023
+  headline: Our paper on "Strata-NeRF : Neural Radiance fields for Stratified Scenes", got accepted at ICCV'23. Details to be out soon.
 - date: June, 2023
-  headline: Our paper on "Optimizing Non-Decomposable Objectives with Mixup Fine-Tuning", got accepted at [Differentiable Almost Everything Workshop](https://differentiable.xyz/) at ICML\'23. Preprint to be out soon!
+  headline: Our paper on "Optimizing Non-Decomposable Objectives with Mixup Fine-Tuning", got accepted at [Differentiable Almost Everything Workshop](https://differentiable.xyz/) at ICML\'23. Preprint is available [here](https://differentiable.xyz/papers/paper_28.pdf)!
 - date: May, 2023
-  headline: Our paper "Certified Adversarial Robustness Within Multiple Perturbation Bounds" was selected for **oral presentation (top 7.8\%)** at [3rd AdvART Workshop](https://robustart.github.io/) at CVPR\'23.
+  headline: Our paper "Certified Adversarial Robustness Within Multiple Perturbation Bounds" was selected for **oral presentation (top 7.8%)** at [3rd AdvART Workshop](https://robustart.github.io/) at CVPR\'23.
 - date: May, 2023
   headline: Awarded the Google Travel Grant 2023, for attending CVPR\'23. Thanks Google!
 - date: April, 2023
