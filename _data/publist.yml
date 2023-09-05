@@ -14,6 +14,23 @@
     url: https://github.com/val-iisc/NoisyTwins
     display: code (github)
 
+- title: "Strata-NeRF: Neural Radiance Fields for Stratified Scenes"
+  image: strata.png
+  description: Strata-NeRF is a framework to model 3D scenes with various levels, using Vector Quantized Latents.
+  authors: A. Dhiman, R Srinath, H. Rangwani, R. Parihar, L R Boregowda, S. Sridhar, R.V. Babu
+  venue: International Conference on Computer Vision, ICCV'23
+  number_link: 3
+  link1:
+    url: https://arxiv.org/pdf/2308.10337.pdf
+    display: pdf
+  link2:
+    url: https://ankitatiisc.github.io/Strata-NeRF/
+    display: project page
+  link3:
+    url: https://github.com/ankitatiisc/Strata-NeRF
+    display: code (github)
+
+
 - title: Improving GANs for Long-Tailed Data through Group Spectral Regularization
   image: gSR.png
   description: Group Spectral Regularization for alleviating mode collapse in GANs particulary for long-tailed data.
