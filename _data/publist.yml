@@ -87,8 +87,8 @@
     url: https://openreview.net/pdf?id=9DYKrsFSU2
     display: pdf 
   link2:
-    url: 
-    display: code (coming soon)
+    url: https://github.com/val-iisc/Saddle-LongTail
+    display: code 
 
 - title: Cost-Sensitive Self-Training for Optimizing Non-Decomposable Metrics
   image: NeurIPS22-CSST-Overview.png
@@ -100,9 +100,11 @@
     url: https://openreview.net/pdf?id=bGo0A4bJBc
     display: pdf 
   link2:
-    url: 
-    display: code (coming soon)
-
+    url: https://github.com/val-iisc/CostSensitiveSelfTraining
+    display: code 
+  link3:
+    url: https://blog.fltech.dev/entry/2023/01/13/iisc-neurips2022-paper-en
+    display:blog
 
 - title: Class Balancing GAN with a Classifier in the Loop (CBGAN)
   image: cbgan.jpg
