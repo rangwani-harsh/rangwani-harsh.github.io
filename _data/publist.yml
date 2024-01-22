@@ -105,6 +105,9 @@
   link3:
     url: https://blog.fltech.dev/entry/2023/01/13/iisc-neurips2022-paper-en
     display: blog
+  link4:
+    url: https://www.fujitsu.com/global/about/research/article/202301-neuripspaper2022.html
+    display: blog
 
 - title: Class Balancing GAN with a Classifier in the Loop (CBGAN)
   image: cbgan.jpg
