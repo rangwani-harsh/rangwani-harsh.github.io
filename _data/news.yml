@@ -1,4 +1,10 @@
-- date: January, 2023
+- date: Feb, 2024
+  headline: Our paper "DeiT-LT: Distillation Strikes Back for Vision Transformer Training on Long-Tailed Datasets" got accepted to CVPR\'24. Preprint to be out soon.
+- date: Feb, 2024
+  headline: Invited Talk on "Learning from Limited and Imperfect Data" at IEEE IISc Deep-Tech Seminar.
+- date: Feb, 2024
+  headline: Serving as reviewer in ECCV\'24
+- date: January, 2024
   headline: Our paper on "Selective Mixup Fine-Tuning for Optimizing Non-Decomposable Metrics"  got accepted to ICLR\'24 for a **Spotlight (Top-5%)** presentation. Pre-print is available [here](https://openreview.net/pdf?id=rxVBKhyfSo).
 - date: December, 2023
   headline: Serving as reviewer for ICML\'24.
